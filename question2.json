@@ -1,0 +1,676 @@
+[
+    {
+        "question": "Who was the first Indian to join the Indian Civil Services?",
+        "choice1": "Surendranath Banerjee",
+        "choice2": "Ishwar Chandra Vidyasagar",
+        "choice3": "Ram Mohan Roy",
+        "choice4": "Satyendranath Tagore",
+        "answer": 4
+    },
+    {
+        "question": "Who was the first Indian to win the Nobel Prize?",
+        "choice1": "Rabindranath Tagore",
+        "choice2": "Mother Teresa",
+        "choice3": "C V Raman",
+        "choice4": "Anil K Gupta",
+        "answer": 1
+    },
+    {
+        "question": "Who was the first Muslim President of India?",
+        "choice1": "Fakhruddin Ali Ahmed",
+        "choice2": "Dr. Zakir Hussain",
+        "choice3": "Maulana Abul Kalam Azad",
+        "choice4": "APJ Abdul Kalam",
+        "answer": 2
+    },
+    {
+        "question": "Who was the first Indian to receive the Ramon Magsaysay Award?",
+        "choice1": "Jawaharlal Nehru",
+        "choice2": "Vinoba Bhave",
+        "choice3": "Satyajit Ray",
+        "choice4": "Mother Teresa",
+        "answer": 2
+    },
+    {
+        "question": "Who was the first person to receive the Stalin Prize?",
+        "choice1": "VK Krishna Menon",
+        "choice2": "Motilal Nehru",
+        "choice3": "Bipin Chandra Pal",
+        "choice4": "Saifuddin Kitchlu",
+        "answer": 4
+    },
+    {
+        "question": "The First President of India who died while in office –",
+        "choice1": "VK Krishna Menon",
+        "choice2": "Motilal Nehru",
+        "choice3": "Dr. Zakir Hussain",
+        "choice4": "Saifuddin Kitchlu",
+        "answer": 3
+    },
+    {
+        "question": "Who was the first President of India to die in office?",
+        "choice1": "Rajendra Prasad",
+        "choice2": "Dr. Zakir Hussain",
+        "choice3": "Fakhruddin Ali Ahmed",
+        "choice4": "APJ Abdul Kalam",
+        "answer": 2
+    },
+    {
+        "question": "The First Prime Minister of India who did not face the Parliament",
+        "choice1": "Indira Gandhi",
+        "choice2": "Charan Singh",
+        "choice3": "Vishwanath Pratap Singh",
+        "choice4": "Charan Singh",
+        "answer": 4
+    },
+    {
+        "question": "Who was the first non-Congress Prime Minister of India?",
+        "choice1": "Charan Singh",
+        "choice2": "Vishwanath Pratap Singh",
+        "choice3": "Morarji Desai",
+        "choice4": "Lal Bahadur Shastri",
+        "answer": 3
+    },
+    {
+        "question": "Who was the first Chief of Defence Staff of India?",
+        "choice1": "Sam Manekshaw",
+        "choice2": "Rakesh Sharma",
+        "choice3": "Bipin Rawat",
+        "choice4": "General V K Singh",
+        "answer": 3
+    },
+    {
+        "question": "Who was the first Chief of Air Staff of India?",
+        "choice1": "Rakesh Sharma",
+        "choice2": "Arjan Singh",
+        "choice3": "Bipin Rawat",
+        "choice4": "Subroto Mukerjee",
+        "answer": 4
+    },
+    {
+        "question": "Who was the first Indian filmmaker to receive Bharat Ratna?",
+        "choice1": "Shyam Benegal",
+        "choice2": "Hrishikesh Mukherjee",
+        "choice3": "Satyajit Ray",
+        "choice4": "AR Rahman",
+        "answer": 3
+    },
+    {
+        "question": "Who was the first Deputy Prime Minister of India?",
+        "choice1": "Lal Bahadur Shastri",
+        "choice2": "Morarji Desai",
+        "choice3": "Vallabhbhai Patel",
+        "choice4": "Jawaharlal Nehru",
+        "answer": 3
+    },
+    {
+        "question": "the First Prime Minister of India who resigned without completing the full term ",
+        "choice1": "Lal Bahadur Shastri",
+        "choice2": "Morarji Desai",
+        "choice3": "Vallabhbhai Patel",
+        "choice4": "Jawaharlal Nehru",
+        "answer": 2
+    },
+    {
+        "question": "Who was the first Minister of Law and Justice of India?",
+        "choice1": "KM Munshi",
+        "choice2": "BR Ambedkar",
+        "choice3": "C Rajagopalachari",
+        "choice4": "Baldev Singh",
+        "answer": 2
+    },
+    {
+        "question": "Who was the first Finance Minister of independent India?",
+        "choice1": "RK Shanmukham Chetty",
+        "choice2": "TN Chaturvedi",
+        "choice3": "CD Deshmukh",
+        "choice4": "Morarji Desai",
+        "answer": 1
+    },
+    {
+        "question": "Who was the first Chess Grandmaster of India?",
+        "choice1": "Dibyendu Barua",
+        "choice2": "Viswanathan Anand",
+        "choice3": "Pentala Harikrishna",
+        "choice4": "Praggnanandhaa",
+        "answer": 2
+    },
+    {
+        "question": "First Chief of Army Staff",
+        "choice1": "Dibyendu Barua",
+        "choice2": "Rajendrasinhji Jadeja",
+        "choice3": "Pentala Harikrishna",
+        "choice4": "Praggnanandhaa",
+        "answer": 2
+    },
+    {
+        "question": "Who was the first Indian to win a Grand Slam title?",
+        "choice1": "Somdev Devvarman",
+        "choice2": "Mahesh Bhupathi",
+        "choice3": "Leander Paes",
+        "choice4": "Rohan Bopanna",
+        "answer": 2
+    },
+    {
+        "question": "Who was the first Indian to climb Mount Everest without oxygen?",
+        "choice1": "Sherpa Phu Dorjee",
+        "choice2": "Phu Dorjee",
+        "choice3": "Tenzing Norgay",
+        "choice4": "Edmund Hillary",
+        "answer": 1
+    },
+    {
+        "question": "Who was the first Indian to complete the volcanic Seven Summits?",
+        "choice1": "Bachendri Pal",
+        "choice2": "Premlata Agarwal",
+        "choice3": "Arunima Sinha",
+        "choice4": "Satyarup Siddhanta",
+        "answer": 4
+    },
+    {
+        "question": "Who was the first Attorney General of India?",
+        "choice1": "MC Setalvad",
+        "choice2": "Soli Sorabjee",
+        "choice3": "Mukul Rohatgi",
+        "choice4": "Gopal Subramanium",
+        "answer": 1
+    },
+    {
+        "question": "First Solicitor General of India",
+        "choice1": "MC Setalvad",
+        "choice2": "Soli Sorabjee",
+        "choice3": "C K Daphtary",
+        "choice4": "Gopal Subramanium",
+        "answer": 3
+    },
+    {
+        "question": "Who was the first Comptroller and Auditor General of India?",
+        "choice1": "V Narahari Rao",
+        "choice2": "Rajiv Mehrishi",
+        "choice3": "TN Chaturvedi",
+        "choice4": "V Narahari Rao",
+        "answer": 4
+    },
+    {
+        "question": "First Person to reach the South Pole",
+        "choice1": "V Narahari Rao",
+        "choice2": "Rajiv Mehrishi",
+        "choice3": "TN Chaturvedi",
+        "choice4": "Jatinder Kumar Bajaj ",
+        "answer": 4
+    },
+    {
+        "question": "Who was the first Sikh President of India?",
+        "choice1": "Manmohan Singh",
+        "choice2": "Gyani Zail Singh",
+        "choice3": "Baldev Singh",
+        "choice4": "Sardar Patel",
+        "answer": 2
+    },
+    {
+        "question": "Who was the first Chairman of ISRO?",
+        "choice1": "Vikram Sarabhai",
+        "choice2": "G Madhavan Nair",
+        "choice3": "Satish Dhawan",
+        "choice4": "K Kasturirangan",
+        "answer": 1
+    },
+    {
+        "question": "Who was the first Principal Scientific Adviser to the Government of India?",
+        "choice1": "Homi Bhabha",
+        "choice2": "APJ Abdul Kalam",
+        "choice3": "CV Raman",
+        "choice4": "Vikram Sarabhai",
+        "answer": 2
+    },
+    {
+        "question": "First Indian to summit the seven highest mountains in the world ",
+        "choice1": "Homi Bhabha",
+        "choice2": "Colonel Ranveer Jamwal",
+        "choice3": "CV Raman",
+        "choice4": "Vikram Sarabhai",
+        "answer": 2
+    },
+    {
+        "question": "Who was the first Indian to receive the Bharat Ratna?",
+        "choice1": "Jawaharlal Nehru",
+        "choice2": "Dr. Rajendra Prasad",
+        "choice3": "C Rajagopalachari",
+        "choice4": "Sardar Patel",
+        "answer": 2
+    },
+    {
+        "question": "First Sikh PM of India",
+        "choice1": "Jawaharlal Nehru",
+        "choice2": "Dr. Rajendra Prasad",
+        "choice3": "Man Mohan Singh",
+        "choice4": "Sardar Patel",
+        "answer": 3
+    },
+    {
+        "question": "Who was the first woman to win the Booker Prize?",
+        "choice1": "Arundhati Roy",
+        "choice2": "Kiran Desai",
+        "choice3": "Shashi Tharoor",
+        "choice4": "Kamala Das",
+        "answer": 1
+    },
+    {
+        "question": "Who was the first Param Vir Chakra winner?",
+        "choice1": "Major Somnath Sharma",
+        "choice2": "Abdul Hamid",
+        "choice3": "Arun Khetrapal",
+        "choice4": "Yogendra Singh Yadav",
+        "answer": 1
+    },
+    {
+        "question": "Who was the first permanent judge in the International Court of Justice?",
+        "choice1": "Sir Benegal Narsingh Rau",
+        "choice2": "Nagendra Singh",
+        "choice3": "Justice Chandrachud",
+        "choice4": "Fali Nariman",
+        "answer": 1
+    },
+    {
+        "question": "Who was the first individual gold medalist from India in the Olympics?",
+        "choice1": "Abhinav Bindra",
+        "choice2": "Neeraj Chopra",
+        "choice3": "KD Jadhav",
+        "choice4": "PV Sindhu",
+        "answer": 1
+    },
+    {
+        "question": "Who was the first Indian to win an Olympic medal?",
+        "choice1": "KD Jadhav",
+        "choice2": "Leander Paes",
+        "choice3": "Abhinav Bindra",
+        "choice4": "PV Sindhu",
+        "answer": 1
+    },
+    {
+        "question": "Who was the first Indian to reach Antarctica?",
+        "choice1": "PV Sindhu",
+        "choice2": "Salim Ali",
+        "choice3": "Sundarlal Bahuguna",
+        "choice4": "Ram Charan",
+        "answer": 4
+    },
+    {
+        "question": "Who was the first Muslim President of the Indian National Congress?",
+        "choice1": "Badruddin Tayyabji",
+        "choice2": "Maulana Azad",
+        "choice3": "Muhammad Ali",
+        "choice4": "Syed Ahmed Khan",
+        "answer": 1
+    },
+    {
+        "question": "Who was the first Governor General of independent India?",
+        "choice1": "Chakravarti Rajagopalachari",
+        "choice2": "Dr. Rajendra Prasad",
+        "choice3": "Sardar Vallabhbhai Patel",
+        "choice4": "Jawaharlal Nehru",
+        "answer": 1
+    },
+    {
+        "question": "Who was the first Education Minister of India?",
+        "choice1": " Abdul Kalam azad",
+        "choice2": "Zakir Hussain",
+        "choice3": "Dr. Rajendra Prasad",
+        "choice4": "Sarvapalli Radhakrishnan",
+        "answer": 1
+    },
+    {
+        "question": "Who was the first Indian Naval Chief?",
+        "choice1": "RD Katari",
+        "choice2": "Arjan Singh",
+        "choice3": "KM Cariappa",
+        "choice4": "Sam Manekshaw",
+        "answer": 1
+    },
+    {
+        "question": "Who was the first Indian to cross the English Channel?",
+        "choice1": "Mihir Sen",
+        "choice2": "Arati Saha",
+        "choice3": "Brojen Das",
+        "choice4": "Bula Choudhury",
+        "answer": 1
+    },
+    {
+        "question": "Who was the first Chief Election Commissioner of India?",
+        "choice1": "KM Cariappa",
+        "choice2": "Sukumar Sen",
+        "choice3": "Rajesh Pilot",
+        "choice4": "TN Seshan",
+        "answer": 2
+    },
+    {
+        "question": "Who was the first Chief Justice of India?",
+        "choice1": "PN Bhagwati",
+        "choice2": "HJ Kania",
+        "choice3": "Subhash Chandra",
+        "choice4": "Dipak Misra",
+        "answer": 2
+    },
+    {
+        "question": "Who was the first Speaker of the Lok Sabha?",
+        "choice1": "GV Mavlankar",
+        "choice2": "Balram Jakhar",
+        "choice3": "Somnath Chatterjee",
+        "choice4": "Meira Kumar",
+        "answer": 1
+    },
+    {
+        "question": "First Sports Person to get Bharat Ratna",
+        "choice1": "GV Mavlankar",
+        "choice2": "Sachin Tendulkar",
+        "choice3": "Somnath Chatterjee",
+        "choice4": "Meira Kumar",
+        "answer": 2
+    },
+    {
+        "question": "Who was the first Home Minister of India?",
+        "choice1": "Sardar Vallabhbhai Patel",
+        "choice2": "Jawaharlal Nehru",
+        "choice3": "Lal Bahadur Shastri",
+        "choice4": "Rajendra Prasad",
+        "answer": 1
+    },
+    {
+        "question": "Who was the first Chairperson of Lokpal of India?",
+        "choice1": "Pinaki Chandra Ghose",
+        "choice2": "RN Mishra",
+        "choice3": "VK Krishna Menon",
+        "choice4": "Shanti Bhushan",
+        "answer": 1
+    },
+    {
+        "question": "Who was the first Indian man to travel to space?",
+        "choice1": "Kalpana Chawla",
+        "choice2": "Rakesh Sharma",
+        "choice3": "Sunita Williams",
+        "choice4": "Vikram Sarabhai",
+        "answer": 2
+    },
+    {
+        "question": "Bhatnagar was the Founder Director (and later First Director General) of Council of Scientific &Industrial Research (CSIR), He was the First Chairman of the University Grants Commission (UGC)",
+        "choice1": "Kalpana Chawla",
+        "choice2": "Dr Shanti Swarup",
+        "choice3": "Sunita Williams",
+        "choice4": "Vikram Sarabhai",
+        "answer": 2
+    },
+    {
+        "question": "Who was the first graduate in Medicine from India?",
+        "choice1": "Bidhan Chandra Roy",
+        "choice2": "Surjo Kumar Chakroborthy",
+        "choice3": "Subhash Mukhopadhyay",
+        "choice4": "K. R. Narayanan",
+        "answer": 2
+    },
+    {
+        "question": "Who was the first Indian to receive the Nobel Prize in Physics?",
+        "choice1": "CV Raman",
+        "choice2": "Jagadish Chandra Bose",
+        "choice3": "Homi Bhabha",
+        "choice4": "Meghnad Saha",
+        "answer": 1
+    },
+    {
+        "question": "Who was the first President of India?",
+        "choice1": "Dr. Rajendra Prasad",
+        "choice2": "Dr. Sarvepalli Radhakrishnan",
+        "choice3": "Dr. Zakir Hussain",
+        "choice4": "Fakhruddin Ali Ahmed",
+        "answer": 1
+    },
+    {
+        "question": "The First Prime Minister to get Nishan–e-Pakistan –",
+        "choice1": "Dr. Rajendra Prasad",
+        "choice2": "Dr. Sarvepalli Radhakrishnan",
+        "choice3": "Dr. Zakir Hussain",
+        "choice4": "Morarji Desai,",
+        "answer": 4
+    },
+    {
+        "question": "Who was the first Vice-President of India?",
+        "choice1": "Dr. Sarvepalli Radhakrishnan",
+        "choice2": "Dr. Rajendra Prasad",
+        "choice3": "Zakir Hussain",
+        "choice4": "Venkaiah Naidu",
+        "answer": 1
+    },
+    {
+        "question": "Who was the first woman to win the Booker Prize?",
+        "choice1": "Kiran Desai",
+        "choice2": "Arundhati Roy",
+        "choice3": "Shashi Tharoor",
+        "choice4": "Kamala Das",
+        "answer": 2
+    },
+    {
+        "question": "Who was the first President of the Indian National Congress?",
+        "choice1": "Dadabhai Naoroji",
+        "choice2": "WC Bonnerjee",
+        "choice3": "Motilal Nehru",
+        "choice4": "Surendranath Banerjee",
+        "answer": 2
+    },
+    {
+        "question": "Who was the first Prime Minister of India?",
+        "choice1": "Lal Bahadur Shastri",
+        "choice2": "Jawaharlal Nehru",
+        "choice3": "Indira Gandhi",
+        "choice4": "Rajiv Gandhi",
+        "answer": 2
+    },
+    {
+        "question": "Who was the first Defence Minister of India?",
+        "choice1": "VK Krishna Menon",
+        "choice2": "Baldev Singh",
+        "choice3": "KM Cariappa",
+        "choice4": "Bipin Rawat",
+        "answer": 2
+    },
+    {
+        "question": "Who was the first Commander-in-Chief of free India?",
+        "choice1": "Arjan Singh",
+        "choice2": "KM Cariappa",
+        "choice3": "General Manekshaw",
+        "choice4": "Bipin Rawat",
+        "answer": 2
+    },
+    {
+        "question": "Who was the first Field Marshal of India?",
+        "choice1": "KM Cariappa",
+        "choice2": "Sam Manekshaw",
+        "choice3": "VK Singh",
+        "choice4": "Bipin Rawat",
+        "answer": 2
+    },
+    {
+        "question": "Who was the first Indian to become a member of the British Parliament?",
+        "choice1": "Dadabhai Naoroji",
+        "choice2": "Mahatma Gandhi",
+        "choice3": "Subhas Chandra Bose",
+        "choice4": "Bal Gangadhar Tilak",
+        "answer": 1
+    },
+    {
+        "question": "Who was the first Indian to win a Grammy Award?",
+        "choice1": "Ravi Shankar",
+        "choice2": "Zakir Hussain",
+        "choice3": "AR Rahman",
+        "choice4": "Bhimsen Joshi",
+        "answer": 1
+    },
+    {
+        "question": "Who was the first person to deliver a speech in Hindi at the United Nations?",
+        "choice1": "Atal Bihari Vajpayee",
+        "choice2": "Indira Gandhi",
+        "choice3": "Jawaharlal Nehru",
+        "choice4": "Rajiv Gandhi",
+        "answer": 1
+    },
+    {
+        "question": "Who was the first President of the National Human Rights Commission?",
+        "choice1": "Ranganath Misra",
+        "choice2": "JS Verma",
+        "choice3": "MN Venkatachaliah",
+        "choice4": "AK Sikri",
+        "answer": 1
+    },
+    {
+        "question": "Who was the first National Security Advisor of India?",
+        "choice1": "Brajesh Mishra",
+        "choice2": "Shiv Shankar Menon",
+        "choice3": "Ajit Doval",
+        "choice4": "MK Narayanan",
+        "answer": 1
+    },
+    {
+        "question": "Who was the first Chief Economic Advisor of India?",
+        "choice1": "JJ Anjaria",
+        "choice2": "Manmohan Singh",
+        "choice3": "Raghuram Rajan",
+        "choice4": "Arvind Subramanian",
+        "answer": 1
+    },
+    {
+        "question": "Who was the first Indian Managing Director of the World Bank?",
+        "choice1": "Gautam Kazi",
+        "choice2": "Raghuram Rajan",
+        "choice3": "KV Kamath",
+        "choice4": "Montek Singh Ahluwalia",
+        "answer": 1
+    },
+    {
+        "question": "Who was the first Indian scientist elected to the Lok Sabha?",
+        "choice1": "Meghnad Saha",
+        "choice2": "CV Raman",
+        "choice3": "APJ Abdul Kalam",
+        "choice4": "Homi Bhabha",
+        "answer": 1
+    },
+    {
+        "question": "First President of Indian Science Congress",
+        "choice1": "Sir Asutosh Mukherjee",
+        "choice2": "CV Raman",
+        "choice3": "APJ Abdul Kalam",
+        "choice4": "Homi Bhabha",
+        "answer": 1
+    },
+    {
+        "question": "Who was the first Chairman of the Finance Commission of India?",
+        "choice1": "KC Niogi",
+        "choice2": "YV Reddy",
+        "choice3": "Bimal Jalan",
+        "choice4": "Raghuram Rajan",
+        "answer": 1
+    },
+    {
+        "question": "Who was the first captain of the Indian cricket team in Test matches?",
+        "choice1": "CK Nayudu",
+        "choice2": "Lala Amarnath",
+        "choice3": "Vijay Hazare",
+        "choice4": "Polly Umrigar",
+        "answer": 1
+    },
+    {
+        "question": "Who was the first ODI captain of the Indian cricket team?",
+        "choice1": "Ajit Wadekar",
+        "choice2": "Kapil Dev",
+        "choice3": "Sunil Gavaskar",
+        "choice4": "Ravi Shastri",
+        "answer": 1
+    },
+    {
+        "question": "Who was the first Chairman of the National Green Tribunal?",
+        "choice1": "Justice Lokeshwar Singh Panta",
+        "choice2": "Justice Adarsh Kumar Goel",
+        "choice3": "Justice Sharad Arvind Bobde",
+        "choice4": "Justice NV Ramana",
+        "answer": 1
+    },
+    {
+        "question": "Who was the first Chairman of ISRO?",
+        "choice1": "Vikram Sarabhai",
+        "choice2": "Homi Bhabha",
+        "choice3": "Satish Dhawan",
+        "choice4": "K Kasturirangan",
+        "answer": 1
+    },
+    {
+        "question": "Who was the first Principal Scientific Adviser to the Government of India?",
+        "choice1": "APJ Abdul Kalam",
+        "choice2": "CV Raman",
+        "choice3": "Vikram Sarabhai",
+        "choice4": "Homi Bhabha",
+        "answer": 1
+    },
+    {
+        "question": "Who was the first Indian to climb Mount Everest?",
+        "choice1": "Tenzing Norgay",
+        "choice2": "Edmund Hillary",
+        "choice3": "Phu Dorjee",
+        "choice4": "Bachendri Pal",
+        "answer": 1
+    },
+    {
+        "question": "First Individual Medal in Olympic games",
+        "choice1": "Neeraj Chopra",
+        "choice2": "Mary Kom",
+        "choice3": "PV Sindhu",
+        "choice4": "KD Jadhav",
+        "answer": 4
+    },
+    {
+        "question": "Who was the first Indian athlete to win a medal in the World Athletics Championship?",
+        "choice1": "Anju Bobby George",
+        "choice2": "PT Usha",
+        "choice3": "Dutee Chand",
+        "choice4": "Hima Das",
+        "answer": 1
+    },
+    {
+        "question": "First Person to win Oscar for Lifetime Achievement?",
+        "choice1": "Satyajit Ray",
+        "choice2": "AR Rahman",
+        "choice3": "Amitabh Bachchan",
+        "choice4": "Bhanu Athaiya",
+        "answer": 1
+    },
+
+
+    {
+        "question": "Who was the first woman Governor of an Indian state?",
+        "choice1": "Vijayalakshmi Pandit",
+        "choice2": "Sucheta Kripalani",
+        "choice3": "Indira Gandhi",
+        "choice4": "Sarojini Naidu",
+        "answer": 4
+    },
+    {
+        "question": "Indian Lawyer who served as President of the International Court of Justice from 1985 to 1988",
+        "choice1": "Sarojini Naidu",
+        "choice2": "Maharaja Sri Nagendra Singh",
+        "choice3": "Meira Kumar",
+        "choice4": "Indira Gandhi",
+        "answer": 2
+    },
+    {
+        "question": "Who was the first woman to climb Mount Everest?",
+        "choice1": "Bachendri Pal",
+        "choice2": "Santosh Yadav",
+        "choice3": "Premlata Agarwal",
+        "choice4": "Arunima Sinha",
+        "answer": 1
+    },
+    {
+        "question": "First Individual Gold Medal Summer Olympics",
+        "choice1": "Arati Saha",
+        "choice2": "Bula Choudhury",
+        "choice3": "Mihir Sen",
+        "choice4": "Abhinav Bindra",
+        "answer": 4
+    }
+]

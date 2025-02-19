@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <title>Quick Quiz</title>
+  <link rel="stylesheet" href="app.css" />
+</head>
+
+<body>
+  <div class="container">
+    <div id="home" class="flex-center flex-column">
+      <h1>Quick Quiz</h1>
+
+      <!-- Dropdown to select question set -->
+      <label for="questionSet" class="label">Choose a Question Set:</label>
+      <select class="btn" id="questionSet">
+        <option value="question1">01-Temples</option>
+        <option value="question2">02-First_male</option>
+        <option value="question3">03-First_female</option>
+        <option value="question4">04-First_person_world</option>
+        <option value="question5">05-Flock_dances</option> 
+        <option value="question6">06-Festivals</option>
+        <option value="question7">07-monuments</option>
+        <option value="question8">08-Famous_personalities</option>
+        <option value="question9">09-Nicknames_of_india</option>
+        <option value="question10">10-Superlatives</option>
+
+      </select>
+
+      <!-- Play button to start the quiz -->
+      <button class="btn" id="playButton">Play</button>
+
+      <!-- High Scores link -->
+      <a class="btn" href="highscores.html">High Scores</a>
+    </div>
+  </div>
+
+  <script>
+   
+    document.getElementById('playButton').addEventListener('click', function() {
+      const selectedSet = document.getElementById('questionSet').value;
+      localStorage.setItem('selectedSet', selectedSet);
+      window.location.href = 'game.html';
+    });
+  </script>
+</body>
+</html>
+
+
+
+
